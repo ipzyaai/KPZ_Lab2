@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kpz.lab2.ex1/1.0.0": {
+        "runtime": {
+          "kpz.lab2.ex1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kpz.lab2.ex1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

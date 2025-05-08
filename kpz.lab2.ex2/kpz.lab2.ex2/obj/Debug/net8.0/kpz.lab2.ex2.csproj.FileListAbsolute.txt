@@ -1,0 +1,14 @@
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\bin\Debug\net8.0\kpz.lab2.ex2.exe
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\bin\Debug\net8.0\kpz.lab2.ex2.deps.json
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\bin\Debug\net8.0\kpz.lab2.ex2.runtimeconfig.json
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\bin\Debug\net8.0\kpz.lab2.ex2.dll
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\bin\Debug\net8.0\kpz.lab2.ex2.pdb
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\kpz.lab2.ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\kpz.lab2.ex2.AssemblyInfoInputs.cache
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\kpz.lab2.ex2.AssemblyInfo.cs
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\kpz.lab2.ex2.csproj.CoreCompileInputs.cache
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\kpz.lab2.ex2.dll
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\refint\kpz.lab2.ex2.dll
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\kpz.lab2.ex2.pdb
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\kpz.lab2.ex2.genruntimeconfig.cache
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex2\kpz.lab2.ex2\obj\Debug\net8.0\ref\kpz.lab2.ex2.dll

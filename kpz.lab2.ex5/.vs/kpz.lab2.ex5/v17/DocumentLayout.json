@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software design\\software design2\\Lab2.kpz\\kpz.lab2.ex5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A239D7-2F7E-48D4-8763-4CBC817CCE91}|kpz.lab2.ex5\\kpz.lab2.ex5.csproj|c:\\software design\\software design2\\lab2.kpz\\kpz.lab2.ex5\\kpz.lab2.ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A239D7-2F7E-48D4-8763-4CBC817CCE91}|kpz.lab2.ex5\\kpz.lab2.ex5.csproj|solutionrelative:kpz.lab2.ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Software design\\software design2\\Lab2.kpz\\kpz.lab2.ex5\\kpz.lab2.ex5\\Program.cs",
+              "RelativeDocumentMoniker": "kpz.lab2.ex5\\Program.cs",
+              "ToolTip": "C:\\Software design\\software design2\\Lab2.kpz\\kpz.lab2.ex5\\kpz.lab2.ex5\\Program.cs",
+              "RelativeToolTip": "kpz.lab2.ex5\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:51:08.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

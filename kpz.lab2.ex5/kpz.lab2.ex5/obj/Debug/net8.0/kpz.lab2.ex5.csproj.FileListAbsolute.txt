@@ -1,0 +1,4 @@
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex5\kpz.lab2.ex5\obj\Debug\net8.0\kpz.lab2.ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex5\kpz.lab2.ex5\obj\Debug\net8.0\kpz.lab2.ex5.AssemblyInfoInputs.cache
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex5\kpz.lab2.ex5\obj\Debug\net8.0\kpz.lab2.ex5.AssemblyInfo.cs
+C:\Software design\software design2\Lab2.kpz\kpz.lab2.ex5\kpz.lab2.ex5\obj\Debug\net8.0\kpz.lab2.ex5.csproj.CoreCompileInputs.cache

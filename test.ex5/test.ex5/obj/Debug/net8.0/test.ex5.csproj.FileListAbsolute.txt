@@ -1,0 +1,14 @@
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\bin\Debug\net8.0\test.ex5.exe
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\bin\Debug\net8.0\test.ex5.deps.json
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\bin\Debug\net8.0\test.ex5.runtimeconfig.json
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\bin\Debug\net8.0\test.ex5.dll
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\bin\Debug\net8.0\test.ex5.pdb
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\test.ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\test.ex5.AssemblyInfoInputs.cache
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\test.ex5.AssemblyInfo.cs
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\test.ex5.csproj.CoreCompileInputs.cache
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\test.ex5.dll
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\refint\test.ex5.dll
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\test.ex5.pdb
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\test.ex5.genruntimeconfig.cache
+C:\Software design\software design2\Lab2.kpz\test.ex5\test.ex5\obj\Debug\net8.0\ref\test.ex5.dll
